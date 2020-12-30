@@ -1,0 +1,11 @@
+ id | first_name | last_name |         email          | teacher_id | subject_id | id |       name       
+----+------------+-----------+------------------------+------------+------------+----+------------------
+  1 | Lindani    | Pani      | lindani@email.com      |          1 |          5 |  5 | Consumer Studies
+  2 | ziba       | Nxumalo   | ziba@Nxumalo.com       |          2 |          4 |  4 | History
+  3 | Phindani   | Kani      | PhindaniKani@email.com |          3 |          3 |  3 | Life Sciences
+  4 | Siwe       | Kalo      | siwe@kalo.com          |          4 |          2 |  2 | Geography
+  5 | Bukani     | Fani      | BukaniFani@email.com   |          5 |          1 |  1 | Mathematics
+  6 | Sizeka     | Khondlo   | sizeka@khondlo.com     |          6 |          6 |  6 | Accounting
+  6 | Sizeka     | Khondlo   | sizeka@khondlo.com     |          6 |          7 |  7 | Economics
+(7 rows)
+
